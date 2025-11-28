@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-Analysis  
+# Heart-Disease-Prediction 
 This project is part of the **Dynamix Networks Data Analytics Internship**.
 
 ## 📌 Objective  
@@ -70,3 +70,20 @@ Evaluated using:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/Heart-Disease-Prediction.git
+
+
+# ***👨‍💻 Author***
+
+**Md Shah Alam**  
+Data Analyst | SQL • Python • Power BI • Excel  
+
+📧 Email: **mdshahalam906565@gmail.com**  
+
+🔗 GitHub: **https://github.com/MdShahAlamDA**  
+
+🔗 LinkedIn: **https://www.linkedin.com/in/md-shah-alam-671602343/**  
+
+*Passionate about turning raw data into meaningful insights and business value.*
+
+
+⭐ **If you found this project helpful, don’t forget to give it a star on GitHub!**
